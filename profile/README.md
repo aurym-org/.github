@@ -10,12 +10,7 @@
     Aurym
   </h1>
 
-  <!-- ⌨️ 自适应深/浅色动态打字机标语 -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Optima&weight=600&size=22&duration=3000&pause=1000&color=EBC634&background=1C1C1C&center=true&vCenter=true&width=600&lines=昀昕成字，日光成金;Refract complexity into clarity.">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Optima&weight=600&size=22&duration=3000&pause=1000&color=EBC634&background=F5F1E8&center=true&vCenter=true&width=600&lines=昀昕成字，日光成金;Refract complexity into clarity.">
-    <img alt="动态标语" src="https://readme-typing-svg.demolab.com?font=Optima&weight=600&size=22&duration=3000&pause=1000&color=EBC634&background=1C1C1C&center=true&vCenter=true&width=600&lines=昀昕成字，日光成金;Refract complexity into clarity.">
-  </picture>
+  <img src="https://img.shields.io/badge/昀昕成字-日光成金-EBC634?style=flat&logo=aurym&logoColor=white" alt="Aurym Slogan">
 
   <br><br>
 
@@ -24,7 +19,7 @@
     <tr>
       <td align="center">
         <a href="https://github.com/aurym-org/music">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=fbotp&repo=AurymMusic&theme=dark&bg_color=1A1028&title_color=EBC634&text_color=F5F1E8&icon_color=EBC634&border_color=36454F" alt="Aurym Music">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=aurym-org&repo=music&theme=dark&bg_color=1A1028&title_color=EBC634&text_color=F5F1E8&icon_color=EBC634&border_color=36454F" alt="Aurym Music">
         </a>
         <br>
         <sub><strong>🎵 Aurym Music</strong></sub>
@@ -33,7 +28,7 @@
       </td>
       <td align="center">
         <a href="https://github.com/aurym-org/tools">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=aurym&repo=aurym-tools&show_owner=true&theme=dark&bg_color=0A1E3D&title_color=EBC634&text_color=F5F1E8&icon_color=EBC634&border_color=36454F" alt="Aurym Tools">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=aurym-org&repo=tools&show_owner=true&theme=dark&bg_color=0A1E3D&title_color=EBC634&text_color=F5F1E8&icon_color=EBC634&border_color=36454F" alt="Aurym Tools">
         </a>
         <br>
         <sub><strong>🛠️ Aurym Tools</strong></sub>
@@ -42,7 +37,7 @@
       </td>
       <td align="center">
         <a href="https://github.com/aurym-org/docs">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=aurym&repo=aurym-docs&show_owner=true&theme=dark&bg_color=0A2E1A&title_color=EBC634&text_color=F5F1E8&icon_color=EBC634&border_color=36454F" alt="Aurym Docs">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=aurym-org&repo=docs&show_owner=true&theme=dark&bg_color=0A2E1A&title_color=EBC634&text_color=F5F1E8&icon_color=EBC634&border_color=36454F" alt="Aurym Docs">
         </a>
         <br>
         <sub><strong>📄 Aurym Docs</strong></sub>
