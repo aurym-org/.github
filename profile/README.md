@@ -1,9 +1,9 @@
 <div align="center">
   <!-- 🌗 自适应深/浅色品牌 Logo -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/logo-light.svg">
-    <img alt="Aurym" src="./assets/logo-dark.svg" width="256">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/aurym-logo-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/aurym-logo-light.svg">
+    <img alt="Aurym" src="./assets/aurym-logo-dark.svg" width="256">
   </picture>
 
   <h1 style="font-family: 'Optima', 'Palatino Sans', sans-serif; font-weight: 300; letter-spacing: 0.25em; margin-top: 0px; color: #EBC634;">
