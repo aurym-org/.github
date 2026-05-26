@@ -1,8 +1,8 @@
 <div align="center">
   <!-- Logo -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/aurym-logo-light.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/aurym-logo-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/aurym-logo-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/aurym-logo-light.svg">
     <img alt="Aurym" src="./assets/aurym-logo-light.svg" width="256">
   </picture>
 
